@@ -15,3 +15,13 @@ Jitendra
 - Merged all the stocks dataframe
 - Prepared Covid dataframe to merge with stocks
 - Merged covid dataframe and stock dataframe
+
+Simmerjeet Singh
+ Genrerated visual represntation (graphs)
+-Changes in price of Gold during covid
+-Ratio of death cases in USA and Canada
+-Vizualizing Canadian Market Using Scatterplot
+-Comparison of Stock Market of USA and Canada
+-Ratio of Covid Cases vs Covid Deaths in USA
+-Ratio of Covid Cases vs Covid Deaths in Canada
+-Comparison of Travel and Real Estate Sector
